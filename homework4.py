@@ -1,0 +1,7 @@
+my_string = input('Ваше имя?:')
+print(len(my_string))
+print('Меня зовут Дмитрий'.upper())
+print('Меня зовут Дмитрий'.upper().lower())
+print('Меня зовут Дмитрий'.replace(' ',''))
+print(my_string[0])
+print(my_string[-1])
